@@ -1,2 +1,3 @@
-# phantauth-feedback
+# PhantAuth Feedback
+
 PhantAuth feedback issues
